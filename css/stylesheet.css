@@ -1,0 +1,117 @@
+@charset "UTF-8";
+/* SEMANTIC TAG STYLES */
+* {
+	box-sizing: border-box;
+	font-family: "Quicksand", "Poiret One", "Josefin Sans", sans-serif;
+	position: relative;
+	overflow: auto;
+}
+
+h1 {
+	padding-bottom: 10px;
+}
+
+nav {
+	display: inline;
+}
+
+body {
+	float: both;
+}
+
+h3 {
+	font-size: 90%;
+	text-align: center;
+	padding-bottom: 3px;
+}
+
+b {
+	color: #011f4b;
+}
+
+li {
+	font-size: 170%;
+}
+
+footer {
+	padding: 10px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.bottom-padding {
+	padding-bottom: 50px;
+}
+
+/* NAVIGATION BAR */
+
+.nav-link {
+	padding: 10px;
+	font-size: 130%;
+	color: #011f4b;
+}
+
+.nav-link:hover {
+	color: #b3cde0;
+	/* Remove underline when hovering over link*/
+	text-decoration: none;
+}
+
+/* The link the user is currently on */
+.active {
+	color: #b3cde0;
+}
+
+.button {
+	font-family: "Quicksand" !important;
+}
+
+/* HOME PAGE */
+
+#homepage {
+	padding-top: 200px;
+}
+
+.name-text {
+	font-size: 400%;
+	text-align: center;
+	font-family: "Quicksand";
+}
+
+.white-text {
+	color: white;
+}
+
+.name-top {
+	padding-bottom: 10px;
+}
+
+.home-text-title {
+	color: white;
+	text-align: center;
+	font-size: 150%;
+	text-transform: lowercase;
+}
+
+.home-box {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 280px;
+}
+
+
+/* Border Box */
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* WORK PAGE */
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
