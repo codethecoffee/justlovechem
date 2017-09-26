@@ -7,6 +7,10 @@
 	overflow: auto;
 }
 
+html {
+	overflow: hidden;
+}
+
 h1 {
 	padding-bottom: 10px;
 	font-family: "Quicksand" !important;
@@ -108,6 +112,15 @@ a:hover {
   box-sizing: border-box;
 }
 
+/* PERIODIC TABLE */
+
+.symbol {
+	font-size: 20px;
+}
+
+.element-name {
+	font-size: 10px;
+}
 
 
 /* WORK PAGE */
