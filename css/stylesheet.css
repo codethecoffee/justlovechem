@@ -140,8 +140,8 @@ a:hover {
 }
 
 .box {
-	min-width: 50px;
-	min-height: 70px;
+	width: 55px;
+	height: 85px;
   color: #037367;
   border: 2px solid #037367;
   text-decoration: none;
