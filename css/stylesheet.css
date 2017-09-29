@@ -129,7 +129,7 @@ a:hover {
 .element-name {
 	position: relative;
 	bottom: 20px;
-	font-size: 9px;
+	font-size: 8.5px;
 	overflow: hidden;
 }
 
@@ -145,7 +145,7 @@ a:hover {
 	width: 52px;
 	height: 70px;
   color: #037367;
-  border: 2px solid #037367;
+  border: 1.5px solid #037367;
   text-decoration: none;
   cursor: pointer;
   transition: all 0.3s ease-out;
