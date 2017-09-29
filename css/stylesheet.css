@@ -142,7 +142,7 @@ a:hover {
 
 .element-name {
 	position: relative;
-	bottom: 12px;
+	bottom: 16px;
 	font-size: 8px;
 	overflow: hidden;
 }
@@ -157,7 +157,7 @@ a:hover {
 .box {
 	min-width: 52px;
 	width: 52px;
-	height: 70px;
+	height: 62px;
   color: #037367;
   border: 1.5px solid #037367;
   text-decoration: none;
