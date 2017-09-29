@@ -208,6 +208,99 @@ a:hover {
   background: #037367;
 }
 
+.alkali-metal {
+	color: #c41b13;
+	border: 1.5px solid #c41b13;
+}
+
+.box.alkali-metal:hover {
+	color: white;
+	background: #c41b13;
+}
+
+.alkaline-metal {
+	color: #fa9200;
+	border: 1.5px solid #fa9200;
+}
+
+.box.alkaline-metal:hover {
+	color: white;
+	background: #fa9200;
+}
+
+.post-transition-metal {
+	color: #d28627;
+	border: 1.5px solid #d28627;
+}
+
+.box.post-transition-metal:hover {
+	color: white;
+	background: #d28627;
+}
+
+.metalloid {
+	color: #bd00ff;
+	border: 1.5px solid #bd00ff;
+}
+
+.box.metalloid:hover {
+	color: white;
+	background: #bd00ff;
+}
+
+.non-metal {
+	color: #71acd6;
+	border: 1.5px solid #71acd6;
+}
+
+.box.non-metal:hover {
+	color: white;
+	background: #71acd6;
+}
+
+
+.halogen {
+	color: #ff0070;
+	border: 1.5px solid #ff0070;
+}
+
+.box.halogen:hover {
+	color: white;
+	background: #ff0070;
+}
+
+
+
+.noble-gas {
+	color: #6D005A;
+	border: 1.5px solid #6D005A;
+}
+
+.box.noble-gas:hover {
+	color: white;
+	background: #6D005A;
+}
+
+.lanthanide {
+	color: #3e252c;
+	border: 1.5px solid #3e252c;
+}
+
+.box.lanthanide:hover {
+	color: white;
+	background: #3e252c;
+}
+
+.actinide {
+	color: #58ba0c;
+	border: 1.5px solid #58ba0c;
+}
+
+.box.actinide:hover {
+	color: white;
+	background: #58ba0c;
+}
+
 td {
 	padding-bottom: 3px !important;
 }
