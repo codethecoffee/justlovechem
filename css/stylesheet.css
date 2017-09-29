@@ -121,7 +121,7 @@ a:hover {
 
 .symbol {
 	position: relative;
-	bottom: 7px;
+	bottom: 11px;
 	font-size: 30px;
 	overflow: hidden;
 }
@@ -142,7 +142,7 @@ a:hover {
 
 .element-name {
 	position: relative;
-	bottom: 16px;
+	bottom: 18px;
 	font-size: 8px;
 	overflow: hidden;
 }
