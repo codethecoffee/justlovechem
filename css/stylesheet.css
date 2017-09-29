@@ -56,6 +56,10 @@ a:hover {
 
 /* NAVIGATION BAR */
 
+.top-menu {
+	padding: 10px;
+}
+
 .nav-link {
 	padding: 10px;
 	font-size: 130%;
@@ -63,14 +67,14 @@ a:hover {
 }
 
 .nav-link:hover {
-	color: #b3cde0;
+	color: #7bd4cc;
 	/* Remove underline when hovering over link*/
 	text-decoration: none;
 }
 
 /* The link the user is currently on */
 .active {
-	color: #b3cde0;
+	color: #037367;
 }
 
 .button {
@@ -84,7 +88,7 @@ a:hover {
 }
 
 .name-text {
-	font-size: 400%;
+	font-size: 3.5em;
 	text-align: center;
 	font-family: "Quicksand";
 }
