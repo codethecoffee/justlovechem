@@ -178,6 +178,10 @@ a:hover {
   background: #037367;
 }
 
+td {
+	padding-bottom: 3px !important;
+}
+
 .element-image {
 	width: 70%;
 }
